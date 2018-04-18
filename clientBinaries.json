@@ -1,19 +1,27 @@
 {
-  "version": "0.0.1",
-  "mac": {
-    "download": {
-      "url": "https://github.com/wuynng/spectrumclient/raw/master/geth-darwin.tar.gz",
-      "type": "tar",
-      "md5": "f2436b41b0f0c5f743c15c7ae6f67c34",
-      "bin": "geth-darwin/geth"
-    }
-  },
-  "win": {
-    "download": {
-      "url": "",
-      "type": "",
-      "md5": "",
-      "bin": ""
+  "clients": {
+    "Geth": {
+      "version": "0.0.1",
+      "platforms": {
+        "mac": {
+          "download": {
+            "url": "https://github.com/wuynng/spectrumclient/raw/master/geth-darwin.tar.gz",
+            "type": "tar",
+            "md5": "3282cbcbe13b195f74b41c5873f5d4a2",
+            "bin": "geth-darwin/geth"
+          },
+          "bin": "geth"
+        },
+        "win": {
+          "download": {
+            "url": "",
+            "type": "",
+            "md5": "",
+            "bin": ""
+          },
+          "bin": ""
+        }
+      }
     }
   }
 }

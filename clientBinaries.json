@@ -5,10 +5,11 @@
       "platforms": {
         "mac": {
           "download": {
-            "url": "https://github.com/wuynng/spectrumclient/raw/master/geth-darwin.tar.gz",
+            "url":
+              "https://github.com/wuynng/spectrumclient/raw/master/geth-darwin-3e7824b.tar.gz",
             "type": "tar",
-            "md5": "3282cbcbe13b195f74b41c5873f5d4a2",
-            "bin": "geth-darwin/geth"
+            "md5": "bd7262a19d3df05e8e6554e44b3a08c5",
+            "bin": "geth-darwin-3e7824b/geth"
           },
           "bin": "geth"
         },

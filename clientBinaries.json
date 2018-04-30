@@ -6,10 +6,10 @@
         "mac": {
           "download": {
             "url":
-              "https://github.com/wuynng/spectrumclient/raw/master/geth-darwin-07696a8.tar.gz",
+              "https://github.com/wuynng/spectrumclient/raw/master/geth-darwin-be63d76.tar.gz",
             "type": "tar",
-            "md5": "d2d57895afe3bf4798ba644cd4cf2a6b",
-            "bin": "geth-darwin-07696a8/geth"
+            "md5": "6c7df444ffebbd216f57ff37c69302ec",
+            "bin": "geth-darwin-be63d76/geth"
           },
           "bin": "geth"
         },

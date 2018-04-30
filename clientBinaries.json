@@ -8,7 +8,7 @@
             "url":
               "https://github.com/wuynng/spectrumclient/raw/master/geth-darwin-be63d77.tar.gz",
             "type": "tar",
-            "md5": "6c7df444ffebbd216f57ff37c69302ec",
+            "md5": "2fbff0db726a7fdd7f8aa54534ed9ddb",
             "bin": "geth-darwin-be63d77/geth"
           },
           "bin": "geth"

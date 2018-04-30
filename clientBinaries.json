@@ -1,15 +1,15 @@
 {
   "clients": {
     "Geth": {
-      "version": "0.3.1",
+      "version": "0.3.2",
       "platforms": {
         "mac": {
           "download": {
             "url":
-              "https://github.com/wuynng/spectrumclient/raw/master/geth-darwin-be63d77.tar.gz",
+              "https://github.com/wuynng/spectrumclient/raw/master/geth-darwin-be63d78.tar.gz",
             "type": "tar",
-            "md5": "2fbff0db726a7fdd7f8aa54534ed9ddb",
-            "bin": "geth-darwin-be63d77/geth"
+            "md5": "15faa93a2a00781fec85ab80db5a1263",
+            "bin": "geth-darwin-be63d78/geth"
           },
           "bin": "geth"
         },

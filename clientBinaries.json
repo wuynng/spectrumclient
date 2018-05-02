@@ -11,7 +11,13 @@
             "md5": "afca6790bc4883d2227079982fc9006d",
             "bin": "geth-darwin-eafb37b/geth"
           },
-          "bin": "geth"
+          "bin": "geth",
+          "commands": {
+            "sanity": {
+              "args": ["version"],
+              "output": ["Smc", "0.3.2"]
+            }
+          }
         },
         "win": {
           "download": {

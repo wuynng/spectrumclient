@@ -20,7 +20,7 @@
         },
         "win": {
           "download": {
-            "url": "https://github.com/wuynng/spectrumclient/raw/master/geth-win-eafb37b.zip",
+            "url": "http://spectrum-1251029933.file.myqcloud.com/package/geth-win-eafb37b.zip",
             "md5": "416842990b9b255d75c03302e4c45676",
             "type": "zip",
             "bin": "geth-win-eafb37b\\geth.exe"

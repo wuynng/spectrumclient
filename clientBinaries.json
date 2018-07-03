@@ -5,10 +5,10 @@
       "platforms": {
         "mac": {
           "download": {
-            "url": "http://spectrum-1251029933.file.myqcloud.com/package/geth-darwin-eafb37b.tar.gz",
-            "md5": "afca6790bc4883d2227079982fc9006d",
+            "url": "https://github.com/wuynng/spectrumclient/raw/master/geth-darwin-033.tar.gz",
+            "md5": "a146c922d166ce4e3907061f8b675f3f",
             "type": "tar",
-            "bin": "geth-darwin-eafb37b/geth"
+            "bin": "geth-darwin-033/geth"
           },
           "bin": "geth",
           "commands": {

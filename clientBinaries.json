@@ -6,7 +6,7 @@
         "mac": {
           "download": {
             "url": "https://github.com/wuynng/spectrumclient/raw/master/geth-darwin-033.tar.gz",
-            "md5": "a146c922d166ce4e3907061f8b675f3f",
+            "md5": "3829570cb3105896dabe3747af4f18bb",
             "type": "tar",
             "bin": "geth-darwin-033/geth"
           },
@@ -14,7 +14,7 @@
           "commands": {
             "sanity": {
               "args": ["version"],
-              "output": ["Smc", "0.3.2"]
+              "output": ["Smc", "0.3.3"]
             }
           }
         },

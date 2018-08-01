@@ -40,10 +40,10 @@
         },
         "linux": {
           "download": {
-            "url": "https://github.com/wuynng/spectrumclient/raw/master/geth-linux-eafb37b.tar.gz",
-            "md5": "043c0310750ca515ba6585907c6c3de1",
+            "url": "https://github.com/wuynng/spectrumclient/raw/master/geth-linux-040.tar.gz",
+            "md5": "3523cc07b7cf9b56137c17074a9ea7a3",
             "type": "tar",
-            "bin": "geth-linux-eafb37b/geth"
+            "bin": "geth-linux-040/geth"
           },
           "bin": "geth",
           "commands": {
@@ -53,7 +53,7 @@
               ],
               "output": [
                 "Smc",
-                "0.3.2"
+                "0.4.0"
               ]
             }
           }

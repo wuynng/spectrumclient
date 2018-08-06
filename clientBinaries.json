@@ -20,7 +20,7 @@
         },
         "win": {
           "download": {
-            "url": "http://spectrum-1251029933.file.myqcloud.com/package/geth-win-040.zip",
+            "url": "https://github.com/wuynng/spectrumclient/raw/master/geth-win-040.zip",
             "md5": "e61a6564b0b16ce612a429156014866e",
             "type": "zip",
             "bin": "geth-win-040\\geth.exe"

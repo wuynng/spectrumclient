@@ -20,10 +20,10 @@
         },
         "win": {
           "download": {
-            "url": "http://spectrum-1251029933.file.myqcloud.com/package/geth-win-040.zip",
-            "md5": "e61a6564b0b16ce612a429156014866e",
+            "url": "http://spectrum-1251029933.file.myqcloud.com/package/geth-win-0_4_1.zip",
+            "md5": "d0692efd6244ca2579bf00432df284ca",
             "type": "zip",
-            "bin": "geth-win-040\\geth.exe"
+            "bin": "geth-win-0_4_1\\geth.exe"
           },
           "bin": "geth.exe",
           "commands": {
@@ -33,7 +33,7 @@
               ],
               "output": [
                 "Smc",
-                "0.4.0"
+                "0.4.1"
               ]
             }
           }

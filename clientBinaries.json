@@ -5,7 +5,7 @@
       "platforms": {
         "mac": {
           "download": {
-            "url": "https://raw.githubusercontent.com/wuynng/spectrumclient/master/geth-darwin-0_4_1.tar.gz",
+            "url": "http://spectrum-1251029933.file.myqcloud.com/package/geth-darwin-0_4_1.tar.gz",
             "md5": "ee09b18970f2fb821c55af4609b218de",
             "type": "tar",
             "bin": "geth-darwin-0_4_1/geth"

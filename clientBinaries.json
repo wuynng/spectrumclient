@@ -8,7 +8,7 @@
             "url": "https://raw.githubusercontent.com/wuynng/spectrumclient/master/smc-darwin-0_5_0.tar.gz",
             "md5": "aad8aac9fa75a136eb18a817c203bbcb",
             "type": "tar",
-            "bin": "smc-darwin-0_4_1/smc"
+            "bin": "smc-darwin-0_5_0/smc"
           },
           "bin": "smc",
           "commands": {

@@ -20,10 +20,10 @@
         },
         "win": {
           "download": {
-            "url": "https://raw.githubusercontent.com/wuynng/spectrumclient/master/geth-win-0_5_0.zip",
+            "url": "https://raw.githubusercontent.com/wuynng/spectrumclient/master/smc-win-0_5_0.zip",
             "md5": "92f0d1158687ff02caa3ce9308d407a5",
             "type": "zip",
-            "bin": "geth-win-0_5_0\\smc.exe"
+            "bin": "smc-win-0_5_0\\smc.exe"
           },
           "bin": "smc.exe",
           "commands": {

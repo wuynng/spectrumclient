@@ -20,16 +20,16 @@
         },
         "win": {
           "download": {
-            "url": "http://spectrum-1251029933.file.myqcloud.com/package/geth-win-0_4_1.zip",
-            "md5": "d0692efd6244ca2579bf00432df284ca",
+            "url": "https://raw.githubusercontent.com/wuynng/spectrumclient/master/geth-win-0_5_0.zip",
+            "md5": "92f0d1158687ff02caa3ce9308d407a5",
             "type": "zip",
-            "bin": "geth-win-0_4_1\\geth.exe"
+            "bin": "geth-win-0_5_0\\smc.exe"
           },
-          "bin": "geth.exe",
+          "bin": "smc.exe",
           "commands": {
             "sanity": {
               "args": ["version"],
-              "output": ["Smc", "0.4.1"]
+              "output": ["Smc", "0.5.0"]
             }
           }
         },
